@@ -10,4 +10,4 @@ It helps process Santali text efficiently for **NLP applications**, and works wi
 - Compatible with NLP frameworks (Hugging Face, Transformers)
 
 ## Acknowledgments
-A huge thanks to Prasanta Hembram for his extensive translation work on Santali transcription. His contributions provided the foundation for this tokenizer, making it possible to process Santali text more effectively. You can check out his translation works here (https://github.com/Prasanta-Hembram/Translation-work-list-for-Santali-language)
+Johar and a huge thanks to Prasanta Hembram for his extensive translation work on Santali transcription. His contributions provided the foundation for this tokenizer, making it possible to process Santali text more effectively. You can check out his translation works here (https://github.com/Prasanta-Hembram/Translation-work-list-for-Santali-language)
