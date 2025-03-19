@@ -6,7 +6,7 @@ uploaded = files.upload()
 file_name = list(uploaded.keys())[0]
 
 # Read the file
-with open("olchiki.txt", 'r', encoding='utf-8') as f:  # Instead of olchiki.txt you can use your own text corpus dataset
+with open("olchiki.txt", 'r', encoding='utf-8') as f:  # Replace olchiki.txt using the name of your file
     text = f.read()
 
 print(text[:500])  # Print the first 500 characters
