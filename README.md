@@ -1,6 +1,6 @@
 ## Santali Tokenizer
 
-A custom tokenizer for the **Santali language (ᱥᱟᱱᱛᱟᱲᱤ)**, built using **Byte-Pair Encoding (BPE)**.  
+A custom tokenizer for the **Santali language (ᱚᱞ ᱪᱮᱢᱮᱫ)**, built using **Byte-Pair Encoding (BPE)**.  
 It helps process Santali text efficiently for **NLP applications**, and works with **Hugging Face Transformers**.
 
 ##  Features
