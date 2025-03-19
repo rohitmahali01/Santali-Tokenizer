@@ -1,3 +1,4 @@
+from tokenizers import ByteLevelBPETokenizer
 #Load The Tokenizer
 tokenizer = ByteLevelBPETokenizer.from_file(
     vocab_filename="./santali_tokenizer/vocab.json",
