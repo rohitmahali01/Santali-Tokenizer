@@ -7,6 +7,4 @@ It helps process Santali text efficiently for **NLP applications**, and works wi
 - Tokenization using **Byte-Pair Encoding (BPE)**
 - Supports Santali (Ol Chiki) script  
 - Trained on Santali text corpus  
-- Compatible with NLP frameworks (Hugging Face, Transformers)  
-
-## Repository Structure
+- Compatible with NLP frameworks (Hugging Face, Transformers)
